@@ -1,0 +1,2 @@
+<map id="map" style="width: 100%; height: 100%;" longitude="{{longitude}}" latitude="{{latitude}}" scale='{{scale}}' subkey="X7FBZ-KQALF-2VPJT-NZ7WQ-AMJ4Q-GGFCQ" circles="{{circles}}" polyline="{{polylines}}" polygons="{{polygons}}" show-location="true" show-scale="true"
+/>

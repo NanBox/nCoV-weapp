@@ -1,1 +1,1 @@
-# nCoV-weapp
+# nCoV
